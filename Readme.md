@@ -16,7 +16,7 @@ After cloning the repository go the folder of the repository using the ```cd 'Fo
 
 Install the necessary dependencies using the ```npm install``` command
 
-And to start the web application run ```npm start``` on the terminal and type localhost:900 on your browser
+And to start the web application run ```npm start``` on the terminal and type localhost:9000 on your browser
 
 And That's it
 
