@@ -8,15 +8,15 @@ A Simple To - Do list made entirely using Node & Express JS. Users can store the
    - Node JS & Express Js
 ---
 ## To Get Started
-Fork this repository in your account and then clone it using the ``` git clone ``` command in the terminal
+- Fork this repository in your account and then clone it using the ``` git clone ``` command in the terminal
 
-Your url would look something like this ```https://github.com/<your-username>/To---Do-List.git```
+- Your url would look something like this ```https://github.com/<your-username>/To---Do-List.git```
 
-After cloning the repository go the folder of the repository using the ```cd 'Foldername'``` command
+- After cloning the repository go the folder of the repository using the ```cd 'Foldername'``` command
 
-Install the necessary dependencies using the ```npm install``` command
+- Install the necessary dependencies using the ```npm install``` command
 
-And to start the web application run ```npm start``` on the terminal and type localhost:9000 on your browser
+- And to start the web application run ```npm start``` on the terminal and type localhost:9000 on your browser
 
 And That's it
 
