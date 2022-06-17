@@ -3,7 +3,8 @@ const app = express();
 const parser = require('body-parser');
 const mysql = require('mysql');
 const axios = require('axios').default;
-
+const open = require('open');
+const reload = require('reload');
 //placeholders for added task
 var task = [];
 var complete = [];
@@ -45,6 +46,9 @@ app.get('/', function(req, res){
     res.render('index', {task: task, complete: complete});
 })
 
-app.listen(9000, function(){
+app.listen(3000, function(){
     console.log('listening');
 })
+
+open('http://localhost:3000', {app: 'chrome'});
+
